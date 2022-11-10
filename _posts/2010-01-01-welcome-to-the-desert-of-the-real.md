@@ -5,10 +5,8 @@ title: Welcome to my Digital Garden
 subtitle: 'This is my personal Digital Garden where I collest my Ideas'
 description: >-
     Welcome in my Digital Garden, I am Morbeus a Web Developer who loves to make Web Development more accessible to All.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+image: /assets/img/uploads/WelcomeTo.png
+optimized_image: /assets/img/uploads/WelcomeTo2.png
 category: blog
 tags:
   - welcome
