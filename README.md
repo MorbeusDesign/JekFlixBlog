@@ -1,6 +1,6 @@
 # Jekflix Template
 
-![Jekflix Template Cover Image](https://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+![Jekflix Template Cover Image](src/img/blog-image.png)
 
 See the [demo here](https://jekflix.rossener.com/).
 
