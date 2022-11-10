@@ -15,16 +15,16 @@ menu:
     url: /
   - title: About Me
     url: /about
-  - title: Contact
+  - title: Contact Me
     url: /contact
   - title: Feed
     url: /feed.xml
-email: morbeus@morbeusdesign.com
+
 # See: https://disqus.com/
 disqus_username: disqus_lot8mrz85W
 # Contact Form Setting
 # See: https://formspree.io/
-mailto: morbeus@morbeusdesign.com
+#mailto: morbeus@morbeusdesign.com
 #formspree_form_id: formspree_form_id
 
 
