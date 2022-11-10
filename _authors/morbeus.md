@@ -5,10 +5,10 @@ name: morbeus
 display_name: Morbeus
 position: Developer & Free Thinker
 bio: Web Developer who loves Open Source und Free Culture.
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: MorbeusDesign
+facebook_username: Morbeus.Design
+twitter_username: MorbeusDesign
+instagram_username: morbeusdesign
+linkedin_username: morbeusdesign
+medium_username: themorbeus
 ---
