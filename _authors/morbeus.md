@@ -1,9 +1,9 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: Morbeus
+name: morbeus
 display_name: Morbeus
-position: Developer & Free Thinker 
+position: Developer & Free Thinker
 bio: Web Developer who loves Open Source und Free Culture.
 github_username: github_username
 facebook_username: facebook_username
