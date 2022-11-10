@@ -15,8 +15,8 @@ menu:
     url: /
   - title: About Me
     url: /about
-  - title: Contact Me
-    url: /contact
+  - title: Tags Page
+    url: /search_tags
   - title: Feed
     url: /feed.xml
 
