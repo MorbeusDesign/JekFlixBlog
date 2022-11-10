@@ -2,7 +2,7 @@
 date: 2022-05-16T23:48:05.000Z
 layout: post
 title: Welcome to my Digital Garden
-subtitle: 'I am going to share some information, Ideas, Thoughts...that I think are probably useful for most of the Developers.You are welcome to join if you are interested.'
+subtitle: 'I am going to share some information, Ideas, Thoughts...that I think are probably useful for most of the Developers. You are welcome to join if you are interested.'
 description: >-
     Welcome in my Digital Garden, I am Morbeus a Web Developer who loves to make Web Development more accessible to All.
 image: /assets/img/uploads/WelcomeTo.png
