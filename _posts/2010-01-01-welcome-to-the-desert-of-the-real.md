@@ -1,10 +1,10 @@
 ---
-date: 2022-11-10T16:30:05.000Z
+date: 2022-05-16T23:48:05.000Z
 layout: post
-title: Welcome to the Morbeus Zone
-subtitle: 'This the Place where my OpenSource Projects and Ideas grow. consectetur adipisicing elit.'
+title: Welcome to my Digital Garden
+subtitle: 'This is my personal Digital Garden where I collest my Ideas'
 description: >-
-  Welcome in my Digital Garden, I am Morbeus a Web Developer who loves to make Web Development more accessible to All.
+    Welcome in my Digital Garden, I am Morbeus a Web Developer who loves to make Web Development more accessible to All.
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
@@ -13,7 +13,7 @@ category: blog
 tags:
   - welcome
   - blog
-author: Morbeus
+author: mranderson
 paginate: true
 ---
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
